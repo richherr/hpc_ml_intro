@@ -6,7 +6,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/richherr/hpc_ml_intro/HEAD)
 
 ### Pangeo
-[![Binder](https://mybinder.org/badge_logo.svg)](https://binder.pangeo.io/v2/gh/richherr/hpc_ml_intro/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://binder.pangeo.io/v2/gh/richherr/hpc_ml_intro/master?urlpath=tree)
 
 ### Turing
 [![Binder](https://mybinder.org/badge_logo.svg)](https://turing.mybinder.org/v2/gh/richherr/hpc_ml_intro/HEAD)
