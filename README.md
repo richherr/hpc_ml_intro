@@ -7,8 +7,8 @@
 ### MyBinder (much slower to start - less resources)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/richherr/hpc_ml_intro/HEAD)
 
-### Turing
-[![Binder](https://mybinder.org/badge_logo.svg)](https://turing.mybinder.org/v2/gh/richherr/hpc_ml_intro/HEAD)
-
 ### OVH
 [![Binder](https://mybinder.org/badge_logo.svg)](https://ovh.mybinder.org/v2/gh/richherr/hpc_ml_intro/HEAD)
+
+### Turing
+[![Binder](https://mybinder.org/badge_logo.svg)](https://turing.mybinder.org/v2/gh/richherr/hpc_ml_intro/HEAD)
