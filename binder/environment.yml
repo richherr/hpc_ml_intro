@@ -1,0 +1,16 @@
+name: hpc_ml_intro
+
+channels:
+  - conda-forge
+  - conda 
+  - pytorch
+  - pypi
+  - bioconda
+  - r
+
+dependencies:
+  - matplotlib
+  - numpy
+  - pip
+  - pip:
+      - julia
